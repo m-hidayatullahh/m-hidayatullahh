@@ -69,9 +69,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-hidayatullahh&theme=github_dark)
 
 [![M-Hidayatullah's github stats](https://github-readme-stats.vercel.app/api?username=m-hidayatullahh&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/m-hidayatullahh)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-hidayatullahh&theme=tokyonight_duo" alt="mystreak"/>
+<img src="https://streak-stats.demolab.com/?user=m-hidayatullahh&theme=tokyonight_duo" alt="mystreak"/>
 
-[![Hidayatullah GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-hidayatullahh&theme=react-dark)](M-Hidayatullah)
+
+[![Hidayatullah GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-hidayatullahh&theme=react-dark)](https://github.com/m-hidayatullahh)
 
 ## <img src="https://media2.giphy.com/media/l0Exj6t3iK0Xzv00E/giphy.gif?cid=ecf05e47lzlepi3rx68kh0wwd8u0r36oxlb3cncofw1pc734&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m-hidayatullahh&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
@@ -82,7 +83,7 @@
 
 Credit: [M-Hidayatullah](https://github.com/m-hidayatullahh)
 
-Last Edited on: 02/03/2025
+Last Edited on: 04/03/2025
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h5 align="center">Made With ❤️ by Me </h5>
