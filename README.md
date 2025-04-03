@@ -16,15 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=m-hidayatullahh" alt="Profile Views: m-hidayatullahh"/>
 </p>
 
-# Some of my Github Stats
+## Statistics
 
-
-<a href="https://www.youtube.com/channel/UCtCEqyh342MswIXhsF_y76Q"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-# By the way here are some of my statistics 🚀
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-hidayatullahh&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-hidayatullahh&theme=github_dark)
+<div>
+  <a href="https://github.com/m-hidayatullahh?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=m-hidayatullahh&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-hidayatullahh&layout=compact&theme=react&hide=php&langs_count=6" />
+</div>
 
 
